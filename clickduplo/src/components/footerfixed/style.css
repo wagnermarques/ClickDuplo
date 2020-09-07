@@ -1,0 +1,12 @@
+.footerfixed {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 16px;
+    background-color: black;
+    color: white;
+}
+
+.footerfixed > * {
+    color: write;
+}

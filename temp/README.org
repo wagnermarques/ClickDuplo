@@ -1,0 +1,4 @@
+
+#+Title: Jogo ClickDuplo
+Click duplo pode ser um grande desafio para muitos idosos, por motivos diversos.
+Este jogo tem por objetivo  avaliar uso do mouse com idosos

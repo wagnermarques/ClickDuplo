@@ -1,5 +1,3 @@
-
-var express = require('express');
 var appExpress = express();
 var path = require("path");
 var fs = require("fs");
